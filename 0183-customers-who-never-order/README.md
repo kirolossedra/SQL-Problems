@@ -1,4 +1,4 @@
-Sure! Here’s how you can format the tables in actual Markdown syntax:
+
 
 ## [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)
 
@@ -65,4 +65,3 @@ Orders table:
 
 --- 
 
-Feel free to ask if you need any more modifications or information!
